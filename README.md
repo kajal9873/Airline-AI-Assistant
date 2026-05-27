@@ -1,6 +1,8 @@
 # ✈️ United Airlines AI Assistant
 
 An AI-powered customer support chatbot built with **RAG (Retrieval-Augmented Generation)** and **LangChain Agents** — demonstrating production-grade AI engineering patterns.
+<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/1f13de77-ed6a-459b-95bf-63c35185ecfe" />
+
 
 ---
 
